@@ -1,0 +1,52 @@
+#logo{
+  width: 100px;
+  height: 80px;
+  vertical-align: center;
+  background: grey;
+  color: white;
+  float: right;
+  margin-right: 50px;
+  letter-spacing: 10px;
+  letter-spacing: 1px;
+}
+#logo > h1{
+
+  line-height: 10px;
+  font-size: 40px;
+
+}
+#logo > h1:nth-child(2) {
+  color: navy;
+  font-weight: bold;
+
+}
+
+.panel-primary {
+  background: lightgrey;
+  opacity: .9;
+}
+
+
+.schedule-container {
+     min-width: 800px;
+     
+}
+
+.input-container {
+     min-width: 800px;
+     
+}
+
+ body {
+        background: url('../img/nyc.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+   }
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
